@@ -3,4 +3,16 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <!--Colors for app background-->
+    <color name="colorAPPBackground1">#000000</color>
+    <color name="colorAPPBackground2">#C63C3C</color>
+    <color name="colorAPPBackground3">#B66E6E</color>
+    <!--Colors for top menu-->
+    <color name="TopMenuColor">#000000</color>
+    <color name="TopMenuTexts">#FFFFFF</color>
+    <!--Colors for root check table-->
+    <color name="buttonColor1">#D5D5D5</color>
+    <color name="buttonColor2">#5E4D40</color>
+    <color name="resultColor">#FFFFFF</color>
+    <color name="chkButtonTextColor">#FFFFFF</color>
 </resources>
